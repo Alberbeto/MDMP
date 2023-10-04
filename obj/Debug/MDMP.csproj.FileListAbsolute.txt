@@ -1,0 +1,10 @@
+C:\Users\MEDINA\NET\MDMP\MDMP\bin\Debug\MDMP.exe.config
+C:\Users\MEDINA\NET\MDMP\MDMP\bin\Debug\MDMP.exe
+C:\Users\MEDINA\NET\MDMP\MDMP\bin\Debug\MDMP.pdb
+C:\Users\MEDINA\NET\MDMP\MDMP\obj\Debug\MDMP.csproj.AssemblyReference.cache
+C:\Users\MEDINA\NET\MDMP\MDMP\obj\Debug\MDMP.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEDINA\NET\MDMP\MDMP\obj\Debug\MDMP.Properties.Resources.resources
+C:\Users\MEDINA\NET\MDMP\MDMP\obj\Debug\MDMP.csproj.GenerateResource.cache
+C:\Users\MEDINA\NET\MDMP\MDMP\obj\Debug\MDMP.csproj.CoreCompileInputs.cache
+C:\Users\MEDINA\NET\MDMP\MDMP\obj\Debug\MDMP.exe
+C:\Users\MEDINA\NET\MDMP\MDMP\obj\Debug\MDMP.pdb
